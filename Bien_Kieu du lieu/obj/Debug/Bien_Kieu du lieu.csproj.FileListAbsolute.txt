@@ -1,0 +1,8 @@
+D:\Computer vision\Lecture1\Bien_Kieu du lieu\Bien_Kieu du lieu\bin\Debug\Bien_Kieu du lieu.exe.config
+D:\Computer vision\Lecture1\Bien_Kieu du lieu\Bien_Kieu du lieu\bin\Debug\Bien_Kieu du lieu.exe
+D:\Computer vision\Lecture1\Bien_Kieu du lieu\Bien_Kieu du lieu\bin\Debug\Bien_Kieu du lieu.pdb
+D:\Computer vision\Lecture1\Bien_Kieu du lieu\Bien_Kieu du lieu\obj\Debug\Bien_Kieu du lieu.csproj.AssemblyReference.cache
+D:\Computer vision\Lecture1\Bien_Kieu du lieu\Bien_Kieu du lieu\obj\Debug\Bien_Kieu du lieu.csproj.CoreCompileInputs.cache
+D:\Computer vision\Lecture1\Bien_Kieu du lieu\Bien_Kieu du lieu\obj\Debug\Bien_Kieu du lieu.exe
+D:\Computer vision\Lecture1\Bien_Kieu du lieu\Bien_Kieu du lieu\obj\Debug\Bien_Kieu du lieu.pdb
+D:\Computer vision\Lecture1\Bien_Kieu du lieu\Bien_Kieu du lieu\obj\Debug\Bien_Kieu du lieu.exe.config

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Computer vision\\Lecture1\\Bien_Kieu du lieu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66117682-4336-4CCA-AD00-7E92ED1B10BD}|Bien_Kieu du lieu\\Bien_Kieu du lieu.csproj|d:\\computer vision\\lecture1\\bien_kieu du lieu\\bien_kieu du lieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66117682-4336-4CCA-AD00-7E92ED1B10BD}|Bien_Kieu du lieu\\Bien_Kieu du lieu.csproj|solutionrelative:bien_kieu du lieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Computer vision\\Lecture1\\Bien_Kieu du lieu\\Bien_Kieu du lieu\\Program.cs",
+              "RelativeDocumentMoniker": "Bien_Kieu du lieu\\Program.cs",
+              "ToolTip": "D:\\Computer vision\\Lecture1\\Bien_Kieu du lieu\\Bien_Kieu du lieu\\Program.cs",
+              "RelativeToolTip": "Bien_Kieu du lieu\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwD8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T14:06:01.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
