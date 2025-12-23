@@ -44,6 +44,12 @@ namespace Bien_Kieu_du_lieu
             Console.WriteLine("decimal: "+ dec);
 
             Console.WriteLine("---------------------------------------");
+            //Hiện tượng overflow
+            byte x=255;
+            x+=1;
+            console.WriteLine(x);
+
+            Console.WriteLine("---------------------------------------");
 
             //boxing và unboxing
 
