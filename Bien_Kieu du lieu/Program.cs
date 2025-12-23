@@ -51,6 +51,14 @@ namespace Bien_Kieu_du_lieu
 
             Console.WriteLine("---------------------------------------");
 
+            //Hiện tượng overflow
+            byte x = 255; sbyte y = 127;
+            x += 1; y += 1;
+            Console.WriteLine(x);
+            Console.WriteLine(y);
+
+            Console.WriteLine("---------------------------------------");
+
             //boxing và unboxing
 
             //boxing: chuyển value type thành object
