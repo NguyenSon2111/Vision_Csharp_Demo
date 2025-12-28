@@ -1,0 +1,8 @@
+D:\Computer vision\Lecture2\BTVN\TinhTienLuong\TinhTienLuong\TinhTienLuong\bin\Debug\TinhTienLuong.exe.config
+D:\Computer vision\Lecture2\BTVN\TinhTienLuong\TinhTienLuong\TinhTienLuong\bin\Debug\TinhTienLuong.exe
+D:\Computer vision\Lecture2\BTVN\TinhTienLuong\TinhTienLuong\TinhTienLuong\bin\Debug\TinhTienLuong.pdb
+D:\Computer vision\Lecture2\BTVN\TinhTienLuong\TinhTienLuong\TinhTienLuong\obj\Debug\TinhTienLuong.csproj.AssemblyReference.cache
+D:\Computer vision\Lecture2\BTVN\TinhTienLuong\TinhTienLuong\TinhTienLuong\obj\Debug\TinhTienLuong.csproj.CoreCompileInputs.cache
+D:\Computer vision\Lecture2\BTVN\TinhTienLuong\TinhTienLuong\TinhTienLuong\obj\Debug\TinhTienLuong.exe
+D:\Computer vision\Lecture2\BTVN\TinhTienLuong\TinhTienLuong\TinhTienLuong\obj\Debug\TinhTienLuong.pdb
+D:\Computer vision\Lecture2\BTVN\TinhTienLuong\TinhTienLuong\TinhTienLuong\obj\Debug\TinhTienLuong.exe.config

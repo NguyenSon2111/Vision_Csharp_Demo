@@ -1,0 +1,8 @@
+D:\Computer vision\Lecture2\Type Casting_Operator\Type Casting_Operator\bin\Debug\Type Casting_Operator.exe.config
+D:\Computer vision\Lecture2\Type Casting_Operator\Type Casting_Operator\bin\Debug\Type Casting_Operator.exe
+D:\Computer vision\Lecture2\Type Casting_Operator\Type Casting_Operator\bin\Debug\Type Casting_Operator.pdb
+D:\Computer vision\Lecture2\Type Casting_Operator\Type Casting_Operator\obj\Debug\BTVN_Bai3_PC10_NguyenVanSon.csproj.AssemblyReference.cache
+D:\Computer vision\Lecture2\Type Casting_Operator\Type Casting_Operator\obj\Debug\BTVN_Bai3_PC10_NguyenVanSon.csproj.CoreCompileInputs.cache
+D:\Computer vision\Lecture2\Type Casting_Operator\Type Casting_Operator\obj\Debug\Type Casting_Operator.exe
+D:\Computer vision\Lecture2\Type Casting_Operator\Type Casting_Operator\obj\Debug\Type Casting_Operator.pdb
+D:\Computer vision\Lecture2\Type Casting_Operator\Type Casting_Operator\obj\Debug\Type Casting_Operator.exe.config
