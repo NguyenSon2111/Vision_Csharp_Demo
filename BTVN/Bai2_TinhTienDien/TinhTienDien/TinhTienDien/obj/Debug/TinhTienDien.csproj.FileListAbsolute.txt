@@ -1,0 +1,8 @@
+D:\Computer vision\Lecture2\BTVN\TinhTienDien\TinhTienDien\TinhTienDien\bin\Debug\TinhTienDien.exe.config
+D:\Computer vision\Lecture2\BTVN\TinhTienDien\TinhTienDien\TinhTienDien\bin\Debug\TinhTienDien.exe
+D:\Computer vision\Lecture2\BTVN\TinhTienDien\TinhTienDien\TinhTienDien\bin\Debug\TinhTienDien.pdb
+D:\Computer vision\Lecture2\BTVN\TinhTienDien\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.csproj.AssemblyReference.cache
+D:\Computer vision\Lecture2\BTVN\TinhTienDien\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.csproj.CoreCompileInputs.cache
+D:\Computer vision\Lecture2\BTVN\TinhTienDien\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.exe
+D:\Computer vision\Lecture2\BTVN\TinhTienDien\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.pdb
+D:\Computer vision\Lecture2\BTVN\TinhTienDien\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.exe.config
